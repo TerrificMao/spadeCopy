@@ -1,0 +1,6 @@
+{
+  "name": "spadeCopy",
+  "tagline": "An AWS Lambda function for s3 bucket replication",
+  "body": "### Purpose\r\nUse when you have an s3 bucket that you want to replicate to another bucket as soon as a file is placed in the destination. This is useful for log file archival. I can also add image processing functions that will detect images and either resize them or convert them into the destination folder. This function is only for moving.\r\n\r\n### Language\r\nWritten in Node.JS.\r\n\r\n### Authors and Contributors\r\nQuestions can be directed to @a1max1",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
