@@ -8,5 +8,6 @@
   },
   "scripts": {
     "test": "./node_modules/jshint/bin/jshint hello.js"
+    "test2": "./node_modules/jshint/bin/jshint spadecopy.js"
   }
 }
